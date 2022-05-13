@@ -1,0 +1,19 @@
+﻿<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(標準地図)" url="https://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png" zmin="2" zmax="18" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(淡色地図)" url="https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png" zmin="2" zmax="18" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(English)" url="https://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png" zmin="5" zmax="11" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(色別標高図)" url="https://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png" zmin="5" zmax="15" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(白地図)" url="https://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png" zmin="5" zmax="14" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:電子国土基本図)" url="https://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg" zmin="2" zmax="18" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1928年|大阪市)" url="https://cyberjapandata.gsi.go.jp/xyz/ort_1928/{z}/{x}/{y}.png" zmin="13" zmax="18" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1936年～1942年|東京23区)" url="https://cyberjapandata.gsi.go.jp/xyz/ort_riku10/{z}/{x}/{y}.png" zmin="13" zmax="18" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1945～1950年)" url="https://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png" zmin="15" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1961～1964年)" url="https://cyberjapandata.gsi.go.jp/xyz/ort_old10/{z}/{x}/{y}.png" zmin="15" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1974～1978年)" url="https://cyberjapandata.gsi.go.jp/xyz/gazo1/{z}/{x}/{y}.jpg" zmin="10" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1979～1983年)" url="https://cyberjapandata.gsi.go.jp/xyz/gazo2/{z}/{x}/{y}.jpg" zmin="15" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1984～1986年)" url="https://cyberjapandata.gsi.go.jp/xyz/gazo3/{z}/{x}/{y}.jpg" zmin="15" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(空中写真:1988～1990年)" url="https://cyberjapandata.gsi.go.jp/xyz/gazo4/{z}/{x}/{y}.jpg" zmin="15" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(土地利用図)" url="https://cyberjapandata.gsi.go.jp/xyz/lum200k/{z}/{x}/{y}.png" zmin="11" zmax="14" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="地理院タイル(都市圏活断層図)" url="https://cyberjapandata.gsi.go.jp/xyz/afm/{z}/{x}/{y}.png" zmin="11" zmax="16" referer="" authcfg=""/>
+</qgsXYZTilesConnections>
