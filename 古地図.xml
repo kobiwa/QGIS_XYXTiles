@@ -40,6 +40,6 @@
 	<xyztiles username="" password="" tilePixelRatio="0" name="今昔マップ(浜松-豊橋・1975-1988年)" url="https://ktgis.net/kjmapw/kjtilemap/hamamatsu/03/{z}/{x}/{-y}.png" zmin="8" zmax="16" referer="" authcfg=""/>
 	<xyztiles username="" password="" tilePixelRatio="0" name="今昔マップ(浜松-豊橋・1988-1995年)" url="https://ktgis.net/kjmapw/kjtilemap/hamamatsu/04/{z}/{x}/{-y}.png" zmin="8" zmax="16" referer="" authcfg=""/>
 	<xyztiles username="" password="" tilePixelRatio="0" name="今昔マップ(浜松-豊橋・1996-2010年)" url="https://ktgis.net/kjmapw/kjtilemap/hamamatsu/05/{z}/{x}/{-y}.png" zmin="8" zmax="16" referer="" authcfg=""/>
-	<xyztiles username="" password="" tilePixelRatio="0" name="迅速測図(農林機構)" url="https://aginfo.cgk.affrc.go.jp/ws/tmc/1.0.0/Kanto_Rapid-900913-L/" zmin="0" zmax="17" referer="" authcfg=""/>
-	<xyztiles username="" password="" tilePixelRatio="0" name="東京図測量原図(農林機構)" url="https://aginfo.cgk.affrc.go.jp/ws/tmc/1.0.0/Tokyo5000-900913-L/" zmin="0" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="迅速測図(農林機構)" url="https://boiledorange73.sakura.ne.jp/ws/tile/Kanto_Rapid-900913/{z}/{x}/{y}.jpg" zmin="0" zmax="17" referer="" authcfg=""/>
+	<xyztiles username="" password="" tilePixelRatio="0" name="東京図測量原図(農林機構)" url="https://boiledorange73.sakura.ne.jp/ws/tile/Tokyo5000-900913/{z}/{x}/{y}.jpg" zmin="0" zmax="17" referer="" authcfg=""/>
 </qgsXYZTilesConnections>
